@@ -70,6 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dev-vivekkhanal/dev-vivekkhanal/output/snake.svg" alt="Snake animation" />
-
 ###
