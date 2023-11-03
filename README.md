@@ -6,10 +6,6 @@
 
 ###
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/86889494?v=4"  />
-
-###
-
 <h2 align="left">Hey there👋</h2>
 
 ###
